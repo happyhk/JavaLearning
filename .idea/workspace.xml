@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec03ef72-6d6f-4d6f-9984-51a70f7890ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qm8ZpIPu5WXbSkvOIfiq1PoTVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/student-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main.java.com.up.student.util" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.com.up.student.view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.up.student.run.Main" />
+      <module name="Student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.up.student.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec03ef72-6d6f-4d6f-9984-51a70f7890ed" name="Default Changelist" comment="" />
+      <created>1617673462548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617673462548</updated>
+      <workItem from="1617673528785" duration="20134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2177" y="519" key="#com.intellij.ide.util.MemberChooser" timestamp="1617715446818">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2177" y="519" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617715446818" />
+    <state x="2147" y="782" width="625" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617716132220">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2147" y="782" width="625" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617716132220" />
+    <state x="2140" y="578" key="FileChooserDialogImpl" timestamp="1617716521498">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2140" y="578" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617716521498" />
+    <state width="1015" height="529" key="GridCell.Tab.0.bottom" timestamp="1617718110747">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1015" height="529" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617718110747" />
+    <state width="1015" height="529" key="GridCell.Tab.0.center" timestamp="1617718110747">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1015" height="529" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617718110747" />
+    <state width="1015" height="529" key="GridCell.Tab.0.left" timestamp="1617718110747">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1015" height="529" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617718110747" />
+    <state width="1015" height="529" key="GridCell.Tab.0.right" timestamp="1617718110747">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state width="1015" height="529" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617718110747" />
+    <state x="1959" y="362" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617714402411">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="1959" y="362" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617714402411" />
+    <state x="2082" y="422" key="refactoring.ChangeSignatureDialog" timestamp="1617713995793">
+      <screen x="1920" y="0" width="1080" height="1880" />
+    </state>
+    <state x="2082" y="422" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1080.1880@1920.0.1080.1880" timestamp="1617713995793" />
+  </component>
+</project>
